@@ -34,12 +34,14 @@ Screenshots of the rendered resume are available in the `screenshots` folder for
 
 ## Folder Structure
 
-HTML-Resume-Page-Assignmen/
-index.html
-README.md
-screenshots/
-    resume-full.png
-    resume-sections.png
+```
+HTML-Resume-Page-Assignment/
+├── index.html
+├── README.md
+└── screenshots/
+    ├── resume-full.png
+    └── resume-sections.png
+```
 
 ## Author
 Pratham Shah
