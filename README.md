@@ -23,10 +23,6 @@ git clone <repository-url>
 
 2. Navigate to the project folder:
 
-```bash
-cd html-resume
-```
-
 3. Open `index.html` in any modern web browser.
 
 ## Usage
@@ -38,12 +34,12 @@ Screenshots of the rendered resume are available in the `screenshots` folder for
 
 ## Folder Structure
 
-html-resume/
-├── index.html
-├── README.md
-└── screenshots/
-    ├── resume-full.png
-    └── resume-sections.png
+HTML-Resume-Page-Assignmen/
+index.html
+README.md
+screenshots/
+    resume-full.png
+    resume-sections.png
 
 ## Author
 Pratham Shah
